@@ -23,8 +23,8 @@
 
 
 # :mailbox_with_mail: Contacts
-<a href="https://instagram.com/hyoje099">
+<a href="https://www.instagram.com/hj07_dev/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/etheral_05_08/"
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&[link=https://www.instagram.com/hj07_dev/]"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>  
 </a>
