@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="330" viewBox="0 0 820 330" xml:space="preserve">
+  <style>
+    .bg   { fill: #0d1117; }
+    .bar  { fill: #161b22; }
+    .t    { font-family: 'JetBrains Mono', 'Fira Code', Consolas, 'D2Coding', monospace; font-size: 15px; fill: #c9d1d9; white-space: pre; }
+    .p    { fill: #7ee787; }
+    .d    { fill: #79c0ff; }
+    .m    { fill: #8b949e; }
+    .y    { fill: #e3b341; }
+    .ln   { opacity: 0; animation: show 0.01s forwards; }
+    .cur  { fill: #c9d1d9; opacity: 0; animation: show 0.01s forwards, blink 1s steps(1) infinite; }
+    @keyframes show  { to { opacity: 1; } }
+    @keyframes blink { 50% { fill: transparent; } }
+  </style>
+
+  <rect class="bg" x="0.5" y="0.5" width="819" height="329" rx="10" stroke="#30363d"/>
+  <path class="bar" d="M0.5 10.5 a10 10 0 0 1 10 -10 h799 a10 10 0 0 1 10 10 v24 h-819 z"/>
+  <circle cx="22" cy="18" r="6" fill="#ff5f56"/>
+  <circle cx="42" cy="18" r="6" fill="#ffbd2e"/>
+  <circle cx="62" cy="18" r="6" fill="#27c93f"/>
+  <text class="t m" x="410" y="23" text-anchor="middle" font-size="13">hyoje@uou: ~</text>
+
+  <text class="t ln" x="24" y="70"  style="animation-delay:.2s"><tspan class="p">hyoje@uou</tspan> <tspan class="d">~</tspan> $ whoami</text>
+  <text class="t ln" x="24" y="94"  style="animation-delay:.8s">kim hyo je / ICT convergence, univ. of ulsan / class of '26</text>
+
+  <text class="t ln" x="24" y="130" style="animation-delay:1.4s"><tspan class="p">hyoje@uou</tspan> <tspan class="d">~</tspan> $ cat stack.txt</text>
+  <text class="t ln" x="24" y="154" style="animation-delay:2.0s"><tspan class="m">lang </tspan> c  c++  python  javascript</text>
+  <text class="t ln" x="24" y="178" style="animation-delay:2.2s"><tspan class="m">web  </tspan> next.js  node.js  three.js</text>
+  <text class="t ln" x="24" y="202" style="animation-delay:2.4s"><tspan class="m">ops  </tspan> github actions  aws  vercel</text>
+
+  <text class="t ln" x="24" y="238" style="animation-delay:3.0s"><tspan class="p">hyoje@uou</tspan> <tspan class="d">~</tspan> $ ls ./now</text>
+  <text class="t ln y" x="24" y="262" style="animation-delay:3.6s">upstage-ai-agent-hackathon/   kakao-ai-top-100/   sqld/</text>
+
+  <text class="t ln" x="24" y="298" style="animation-delay:4.2s"><tspan class="p">hyoje@uou</tspan> <tspan class="d">~</tspan> $</text>
+  <rect class="cur" x="143" y="285" width="9" height="17" style="animation-delay:4.2s, 4.2s"/>
+</svg>
