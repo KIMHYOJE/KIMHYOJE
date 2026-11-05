@@ -30,7 +30,7 @@
 
 <br/>
 
-### 2026
+### 2026  대학교 1학년
 
 ```
 * 11.03  deploy   포트폴리오 사이트
@@ -40,18 +40,18 @@
 * 09.10  release  mealpick. 8명이 같이 만든 동아리 서비스, 프론트 담당
 * 08.31  award    디지털 콘텐츠 창작 공모전 우수상
 * 08.22  try      CCE 사이버공격방어대회. 혼자 나가서 구경하다 몇 문제 찔러봄
-* 08.21  award    울산 게임 콘텐츠 개발 해커톤 대상. 맵이랑 레벨 디자인 맡음
+* 08.21  award    울산 게임 콘텐츠 개발 해커톤 대상. 맵이랑 레벨 맡음
 * 08.10  feat     SW-ICT-notice. 학과 공지 확인하기 귀찮아서 만든 봇
-* 08.10  done     로컬 AI 메이커스랩 x 현대해상 인턴십 6주
+* 08.10  done     로컬 AI 메이커스랩 x 현대해상  6주
 * 07.10  lead     부·울·경 AI융합해커톤 PM
 * 05.30  award    피지컬AI 챌린지 3등
-* 05.29  try      첫 프로그래밍 경진대회. 3문제만 풀자 했고 진짜 3문제 풂
+* 05.29  try      첫 프로그래밍 경진대회. 
 * 01.06  init     problem-solving
 ```
 
 <br/>
 
-### 만든 것들
+### 대학교 1학년 만든 것들
 
 | 프로젝트 | 한 줄 | stack | 상태 |
 |---|---|---|:-:|
@@ -68,7 +68,7 @@
   <a href="https://github.com/KIMHYOJE/problem-solving"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KIMHYOJE&repo=problem-solving&theme=github_dark&hide_border=true"/></a>
 </p>
 
-<details>
+
 <summary><b>그 외 참가한 것들</b></summary>
 <br/>
 
@@ -84,7 +84,7 @@
 | 2026.10 ~ 11 | 대구·울산·경북 X Upstage AI Agent Hackathon V.2 | **팀장** |
 | 2026.10 ~ 11 | 카카오 AI_TOP_100 | 개인 |
 
-</details>
+
 
 <br/>
 
