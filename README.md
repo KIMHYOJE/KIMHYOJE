@@ -109,7 +109,7 @@
 
 ### Records
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyoje099)](https://solved.ac/hyoje000/)   <img src="http://mazandi.herokuapp.com/api?handle=hyoje099&theme=dark"/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyoje000)](https://solved.ac/hyoje000/)   <img src="http://mazandi.herokuapp.com/api?handle=hyoje000&theme=dark"/>
 <br/>
 
 <p align="center">
